@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-07 18:29:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-01-07 17:47:45 +0000"
@@ -317,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-07 18:34:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-07 17:31:14 +0000"
@@ -452,6 +464,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-01-07 17:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-01-07 18:37:09 +0000"
     },
     "done": true
   },
@@ -695,6 +713,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-07 18:37:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-01-07 17:49:28 +0000"
@@ -863,6 +887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-07 18:36:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-01-07 18:04:34 +0000"
@@ -930,7 +960,8 @@
       "minecraft:spider": "2025-01-07 17:31:22 +0000",
       "minecraft:zombie": "2025-01-07 17:31:37 +0000",
       "minecraft:creeper": "2025-01-07 17:29:43 +0000",
-      "minecraft:zombie_villager": "2025-01-07 17:45:15 +0000"
+      "minecraft:zombie_villager": "2025-01-07 17:45:15 +0000",
+      "minecraft:slime": "2025-01-07 18:34:23 +0000"
     },
     "done": false
   },
@@ -973,6 +1004,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-01-07 17:29:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-07 18:34:27 +0000"
     },
     "done": true
   },
@@ -1254,6 +1291,7 @@
       "bread": "2025-01-07 18:03:51 +0000",
       "glow_berries": "2025-01-07 17:29:12 +0000",
       "cooked_beef": "2025-01-07 17:56:55 +0000",
+      "baked_potato": "2025-01-07 18:22:25 +0000",
       "carrot": "2025-01-07 17:49:59 +0000"
     },
     "done": false
@@ -1309,6 +1347,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-01-07 17:29:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-07 18:37:09 +0000"
     },
     "done": true
   },
@@ -1459,6 +1503,12 @@
   "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-07 17:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-07 18:34:27 +0000"
     },
     "done": true
   },
