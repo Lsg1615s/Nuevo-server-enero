@@ -201,3 +201,4 @@
 [07Jan2025 18:09:21.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lsg1615 left the game
 [07Jan2025 18:29:36.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubeenuni has made the advancement [Hot Stuff]
 [07Jan2025 18:37:09.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubeenuni has made the advancement [Ice Bucket Challenge]
+[07Jan2025 18:54:39.785] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/34489, l='ServerLevel[world]', x=1517.42, y=71.00, z=963.26] died, message: 'Villager was slain by Zombie'
