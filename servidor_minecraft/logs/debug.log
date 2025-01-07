@@ -776,3 +776,44 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07Jan2025 17:55:47.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jan2025 17:55:47.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Jan2025 17:56:03.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lsg1615 has made the advancement [Local Brewery]
+[07Jan2025 18:00:45.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lsg1615 has reached the goal [Zombie Doctor]
+[07Jan2025 18:00:47.766] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 18:00:47.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 18:00:56.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 0.4735213111594021,0.0,10.078251123966083
+[07Jan2025 18:00:56.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 0.6309049369481272,0.0,10.475848251122443
+[07Jan2025 18:00:56.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 0.7851408932228878,0.0,10.865493443319338
+[07Jan2025 18:00:56.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 0.9313004040359374,0.0,11.247633201886742
+[07Jan2025 18:00:56.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 1.069569452344922,0.0,11.62270128990042
+[07Jan2025 18:00:56.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 1.2001454206829294,0.0,11.991115252397435
+[07Jan2025 18:00:56.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 1.3232358122143069,0.0,12.353276084224376
+[07Jan2025 18:00:56.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 1.439057072251444,0.0,12.70956833949026
+[07Jan2025 18:00:56.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 1.5478332493094058,0.0,13.06035949454565
+[07Jan2025 18:00:56.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 1.6497951221986114,0.0,13.40600076241617
+[07Jan2025 18:00:56.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 1.7451789319991349,0.0,13.746826601415478
+[07Jan2025 18:00:56.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 1.8342252879417629,0.0,14.083154777594359
+[07Jan2025 18:00:56.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 1.9171785985515726,0.0,14.415287330022352
+[07Jan2025 18:00:56.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 1.9984728445313067,0.0,14.74077723773678
+[07Jan2025 18:00:56.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 2.0781412022965924,0.0,15.059757334104347
+[07Jan2025 18:00:56.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 2.156216194426179,0.0,15.372357834628701
+[07Jan2025 18:00:56.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 2.2327296882021983,0.0,15.678706331104877
+[07Jan2025 18:00:56.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 2.307712909001566,0.0,15.97892784523492
+[07Jan2025 18:00:56.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 2.3847364043635935,0.0,16.269613810365854
+[07Jan2025 18:00:56.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 2.463732863860969,0.0,16.55092856387023
+[07Jan2025 18:00:56.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 2.544698799651769,0.0,16.82309541878294
+[07Jan2025 18:00:56.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 2.6276897100481165,0.0,17.086395619330688
+[07Jan2025 18:00:56.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 2.739359201069192,0.0,17.3183610347304
+[07Jan2025 18:00:56.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5380ms or 107 ticks behind
+[07Jan2025 18:01:26.343] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21362, l='ServerLevel[world]', x=1463.37, y=67.56, z=925.72] died, message: 'Villager suffocated in a wall'
+[07Jan2025 18:04:28.189] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/entity/raid/Raid
+[07Jan2025 18:04:34.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubeenuni has made the advancement [Sweet Dreams]
+[07Jan2025 18:05:35.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubeenuni> 1487 69 963
+[07Jan2025 18:05:52.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 18:05:52.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 18:09:21.190] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lsg1615 lost connection: Disconnected
+[07Jan2025 18:09:21.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lsg1615 left the game
+[07Jan2025 18:10:52.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 18:10:52.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 18:15:52.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 18:15:52.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 18:20:52.822] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 18:20:52.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
