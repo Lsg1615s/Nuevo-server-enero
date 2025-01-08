@@ -571,3 +571,19 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Jan2025 20:00:46.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress has made the advancement [Suit Up]
 [08Jan2025 20:05:30.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jan2025 20:05:30.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 20:10:25.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress has made the advancement [Diamonds!]
+[08Jan2025 20:10:30.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 20:10:30.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 20:12:02.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress has made the advancement [Not Today, Thank You]
+[08Jan2025 20:13:27.766] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SINNOMnexpress lost connection: Timed out
+[08Jan2025 20:13:27.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress left the game
+[08Jan2025 20:13:27.817] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Jan2025 20:14:23.116] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[08Jan2025 20:14:23.116] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[08Jan2025 20:14:23.116] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[08Jan2025 20:14:23.116] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[08Jan2025 20:14:23.116] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@757384a8 into net.minecraft.network.Connection@2ca64ab0
+[08Jan2025 20:14:27.859] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SINNOMnexpress[/127.117.29.19:50945] logged in with entity id 2823 at (-148.30000001192093, -18.0, 636.3000000119209)
+[08Jan2025 20:14:27.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress joined the game
+[08Jan2025 20:15:30.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 20:15:30.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

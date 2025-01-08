@@ -39,3 +39,10 @@
 [08Jan2025 19:51:41.184] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SINNOMnexpress[/127.117.29.19:56375] logged in with entity id 87 at (-201.49274934619294, 27.0, 552.6821515914692)
 [08Jan2025 19:51:41.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress joined the game
 [08Jan2025 20:00:46.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress has made the advancement [Suit Up]
+[08Jan2025 20:10:25.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress has made the advancement [Diamonds!]
+[08Jan2025 20:12:02.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress has made the advancement [Not Today, Thank You]
+[08Jan2025 20:13:27.766] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SINNOMnexpress lost connection: Timed out
+[08Jan2025 20:13:27.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress left the game
+[08Jan2025 20:13:27.817] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Jan2025 20:14:27.859] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SINNOMnexpress[/127.117.29.19:50945] logged in with entity id 2823 at (-148.30000001192093, -18.0, 636.3000000119209)
+[08Jan2025 20:14:27.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress joined the game
