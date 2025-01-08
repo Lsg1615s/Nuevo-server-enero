@@ -59,3 +59,7 @@
 [08Jan2025 20:48:54.668] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/11983, l='ServerLevel[world]', x=1514.29, y=71.00, z=967.39] died, message: 'Fisherman was slain by Zombie'
 [08Jan2025 20:50:18.568] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rubeenuni lost connection: Disconnected
 [08Jan2025 20:50:18.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubeenuni left the game
+[08Jan2025 21:07:13.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SINNOMnexpress lost connection: Disconnected
+[08Jan2025 21:07:13.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress left the game
+[08Jan2025 21:07:31.806] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SINNOMnexpress[/127.117.29.19:41257] logged in with entity id 18212 at (411.4494919614527, 60.3259826209773, 1110.5496887717018)
+[08Jan2025 21:07:31.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress joined the game
