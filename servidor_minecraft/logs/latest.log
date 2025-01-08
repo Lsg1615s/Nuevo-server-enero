@@ -46,3 +46,16 @@
 [08Jan2025 20:13:27.817] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [08Jan2025 20:14:27.859] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SINNOMnexpress[/127.117.29.19:50945] logged in with entity id 2823 at (-148.30000001192093, -18.0, 636.3000000119209)
 [08Jan2025 20:14:27.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress joined the game
+[08Jan2025 20:21:51.523] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rubeenuni[/127.28.13.35:53415] logged in with entity id 4132 at (1497.4718631649012, 68.0, 938.3000000119209)
+[08Jan2025 20:21:51.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubeenuni joined the game
+[08Jan2025 20:22:39.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubeenuni> puedes dormir?
+[08Jan2025 20:22:46.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SINNOMnexpress> no
+[08Jan2025 20:22:48.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubeenuni> ok
+[08Jan2025 20:24:05.768] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/4194, l='ServerLevel[world]', x=1477.51, y=70.00, z=954.84] died, message: 'Armorer was slain by Zombie'
+[08Jan2025 20:26:55.569] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/4192, l='ServerLevel[world]', x=1459.52, y=70.00, z=945.37] died, message: 'Farmer was slain by Zombie'
+[08Jan2025 20:28:43.717] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4186, l='ServerLevel[world]', x=1518.71, y=71.00, z=963.70] died, message: 'Villager was slain by Zombie'
+[08Jan2025 20:29:04.218] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/4187, l='ServerLevel[world]', x=1515.46, y=71.00, z=963.50] died, message: 'Fisherman was slain by Zombie'
+[08Jan2025 20:32:54.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubeenuni has made the advancement [What a Deal!]
+[08Jan2025 20:48:54.668] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/11983, l='ServerLevel[world]', x=1514.29, y=71.00, z=967.39] died, message: 'Fisherman was slain by Zombie'
+[08Jan2025 20:50:18.568] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rubeenuni lost connection: Disconnected
+[08Jan2025 20:50:18.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubeenuni left the game
