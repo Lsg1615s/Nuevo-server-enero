@@ -73,3 +73,11 @@
 [08Jan2025 16:41:35.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress has made the advancement [Getting an Upgrade]
 [08Jan2025 16:43:12.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress has made the advancement [Acquire Hardware]
 [08Jan2025 16:43:28.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress has made the advancement [Isn't It Iron Pick]
+[08Jan2025 16:57:04.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress has made the advancement [Sweet Dreams]
+[08Jan2025 16:57:44.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lsg1615 moved too quickly! -10.27614147038912,-0.5870907195829886,-0.7746934312146436
+[08Jan2025 16:57:44.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2453ms or 49 ticks behind
+[08Jan2025 16:59:45.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lsg1615 moved too quickly! -1.8041094799907569,0.0,9.864381922839755
+[08Jan2025 17:00:57.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress has made the advancement [Monster Hunter]
+[08Jan2025 17:02:03.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lsg1615: Set the world spawn point to -880, 72, 409 [0.0]]
+[08Jan2025 17:11:16.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aluyr[/127.247.50.40:58583] logged in with entity id 18869 at (-872.5, 72.0, 401.5)
+[08Jan2025 17:11:16.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aluyr joined the game
