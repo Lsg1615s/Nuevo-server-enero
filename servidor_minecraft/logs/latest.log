@@ -38,3 +38,4 @@
 [08Jan2025 19:50:30.558] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [08Jan2025 19:51:41.184] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SINNOMnexpress[/127.117.29.19:56375] logged in with entity id 87 at (-201.49274934619294, 27.0, 552.6821515914692)
 [08Jan2025 19:51:41.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress joined the game
+[08Jan2025 20:00:46.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress has made the advancement [Suit Up]
