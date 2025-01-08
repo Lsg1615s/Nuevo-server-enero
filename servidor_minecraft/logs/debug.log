@@ -596,3 +596,66 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Jan2025 16:19:40.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcharles22 was slain by Zombie
 [08Jan2025 16:19:58.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcharles22 lost connection: Disconnected
 [08Jan2025 16:19:58.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcharles22 left the game
+[08Jan2025 16:22:39.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 16:22:39.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 16:24:51.304] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[08Jan2025 16:24:51.305] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[08Jan2025 16:24:51.305] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[08Jan2025 16:24:51.305] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[08Jan2025 16:24:51.305] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@4e002150 into net.minecraft.network.Connection@4ed10070
+[08Jan2025 16:25:06.586] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SINNOMnexpress[/127.117.29.19:57417] logged in with entity id 1128 at (-1.5, 65.0, 0.5)
+[08Jan2025 16:25:06.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress joined the game
+[08Jan2025 16:25:43.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to SINNOMnexpress: entra a discord no?
+[08Jan2025 16:26:59.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SINNOMnexpress> no pd
+[08Jan2025 16:27:24.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SINNOMnexpress> tengo el discord mi portatil nuevo y en el antiguo q es este no
+[08Jan2025 16:27:39.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 16:27:39.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 16:27:42.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to SINNOMnexpress: entra desde google
+[08Jan2025 16:28:18.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SINNOMnexpress> ok
+[08Jan2025 16:32:14.444] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [betteradvancements, forge, jei, minecraft, xaerominimap, xaeroworldmap]
+[08Jan2025 16:32:14.504] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [forge:channel_registration, forge:handshake, forge:login, jei:channel, xaerominimap:main, xaeroworldmap:main]
+[08Jan2025 16:32:14.504] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[08Jan2025 16:32:14.504] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[08Jan2025 16:32:14.505] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Version test of 'PRESENT 0' from client : ACCEPTED
+[08Jan2025 16:32:14.505] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[08Jan2025 16:32:14.562] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[08Jan2025 16:32:14.620] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[08Jan2025 16:32:14.676] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[08Jan2025 16:32:14.796] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[08Jan2025 16:32:14.852] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[08Jan2025 16:32:14.908] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[08Jan2025 16:32:15.022] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[08Jan2025 16:32:15.080] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[08Jan2025 16:32:15.134] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[08Jan2025 16:32:15.188] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[08Jan2025 16:32:15.242] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[08Jan2025 16:32:15.298] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[08Jan2025 16:32:15.408] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[08Jan2025 16:32:15.462] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[08Jan2025 16:32:15.516] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[08Jan2025 16:32:15.572] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[08Jan2025 16:32:15.628] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[08Jan2025 16:32:15.682] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[08Jan2025 16:32:16.128] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[08Jan2025 16:32:16.831] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lsg1615[/127.122.83.218:37811] logged in with entity id 2463 at (-238.18982034899292, 63.0, 326.0289788589376)
+[08Jan2025 16:32:16.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lsg1615 joined the game
+[08Jan2025 16:32:27.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lsg1615> buenas
+[08Jan2025 16:32:39.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 16:32:39.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 16:35:22.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SINNOMnexpress> hola
+[08Jan2025 16:35:27.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lsg1615> yi
+[08Jan2025 16:36:42.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress has made the advancement [Stone Age]
+[08Jan2025 16:37:39.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 16:37:39.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 16:38:15.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lsg1615 has made the advancement [Best Friends Forever]
+[08Jan2025 16:38:39.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SINNOMnexpress> lsg
+[08Jan2025 16:38:43.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lsg1615> dime
+[08Jan2025 16:38:48.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SINNOMnexpress> teneis una base?
+[08Jan2025 16:38:56.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lsg1615> yo no
+[08Jan2025 16:39:12.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SINNOMnexpress> ah ok
+[08Jan2025 16:39:31.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SINNOMnexpress> esto no es la version 1,21 no?
+[08Jan2025 16:39:35.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lsg1615> si es
+[08Jan2025 16:40:06.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SINNOMnexpress> y pq veo las menas como antiguamente y el granito y el hielo?
+[08Jan2025 16:40:21.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lsg1615> como que como antiguamente?
+[08Jan2025 16:40:31.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lsg1615> manda foto
+[08Jan2025 16:41:35.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress has made the advancement [Getting an Upgrade]
