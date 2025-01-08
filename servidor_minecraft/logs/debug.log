@@ -637,3 +637,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Jan2025 21:07:31.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress joined the game
 [08Jan2025 21:10:30.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jan2025 21:10:30.565] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 21:15:30.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 21:15:30.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 21:16:24.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress drowned
+[08Jan2025 21:17:32.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SINNOMnexpress lost connection: Timed out
+[08Jan2025 21:17:32.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress left the game
+[08Jan2025 21:20:30.524] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 21:20:30.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
