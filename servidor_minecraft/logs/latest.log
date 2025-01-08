@@ -1,206 +1,48 @@
-[07Jan2025 17:09:56.626] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[07Jan2025 17:09:56.629] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04
-[07Jan2025 17:09:56.631] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.5 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[07Jan2025 17:09:56.755] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/Nuevo-server-enero/servidor_minecraft/config/fml.toml is not correct. Correcting
-[07Jan2025 17:09:56.757] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
-[07Jan2025 17:09:56.758] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
-[07Jan2025 17:09:56.758] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
-[07Jan2025 17:09:56.759] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
-[07Jan2025 17:09:56.773] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[07Jan2025 17:09:56.938] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/Nuevo-server-enero/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[07Jan2025 17:09:57.242] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[07Jan2025 17:09:58.580] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[07Jan2025 17:09:59.065] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/Nuevo-server-enero/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/Nuevo-server-enero/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/Nuevo-server-enero/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/Nuevo-server-enero/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
-[07Jan2025 17:09:59.195] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/Nuevo-server-enero/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/Nuevo-server-enero/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/Nuevo-server-enero/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/Nuevo-server-enero/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
-[07Jan2025 17:10:07.412] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 51.0.33, for MC 1.21 with MCP 20240613.102039
-[07Jan2025 17:10:07.413] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v51.0.33 Initialized
-[07Jan2025 17:10:07.434] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[07Jan2025 17:10:08.522] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[07Jan2025 17:10:09.593] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 51.0.33 Target: 51.0.33
-[07Jan2025 17:10:10.832] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[07Jan2025 17:10:11.923] [main/INFO] [net.minecraft.server.Main/]: No existing world data, creating new world
-[07Jan2025 17:10:13.084] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1290 recipes
-[07Jan2025 17:10:13.428] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1399 advancements
-[07Jan2025 17:10:14.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21
-[07Jan2025 17:10:14.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[07Jan2025 17:10:14.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[07Jan2025 17:10:14.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[07Jan2025 17:10:14.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[07Jan2025 17:10:14.509] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[07Jan2025 17:10:14.608] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[07Jan2025 17:10:14.608] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[07Jan2025 17:10:14.609] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[07Jan2025 17:10:14.609] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[07Jan2025 17:10:14.649] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
-[07Jan2025 17:10:14.650] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
-[07Jan2025 17:10:14.651] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
-[07Jan2025 17:10:14.652] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
-[07Jan2025 17:10:14.652] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
-[07Jan2025 17:10:14.653] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
-[07Jan2025 17:10:14.653] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
-[07Jan2025 17:10:14.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[07Jan2025 17:10:28.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[07Jan2025 17:10:28.305] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[07Jan2025 17:10:29.938] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[07Jan2025 17:10:29.940] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[07Jan2025 17:10:29.940] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[07Jan2025 17:10:30.340] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[07Jan2025 17:10:30.824] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[07Jan2025 17:10:31.299] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[07Jan2025 17:10:31.771] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[07Jan2025 17:10:32.266] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[07Jan2025 17:10:32.770] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
-[07Jan2025 17:10:33.258] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
-[07Jan2025 17:10:33.767] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
-[07Jan2025 17:10:34.263] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
-[07Jan2025 17:10:34.786] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
-[07Jan2025 17:10:35.309] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
-[07Jan2025 17:10:35.792] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 20%
-[07Jan2025 17:10:36.342] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
-[07Jan2025 17:10:36.781] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
-[07Jan2025 17:10:37.261] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
-[07Jan2025 17:10:37.758] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
-[07Jan2025 17:10:38.272] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
-[07Jan2025 17:10:38.769] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
-[07Jan2025 17:10:39.256] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 36%
-[07Jan2025 17:10:39.453] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11198 ms
-[07Jan2025 17:10:39.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (24.815s)! For help, type "help"
-[07Jan2025 17:10:39.475] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[07Jan2025 17:16:06.522] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lsg1615[/127.122.83.218:49985] logged in with entity id 39 at (8.5, 66.0, -5.5)
-[07Jan2025 17:16:06.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lsg1615 joined the game
-[07Jan2025 17:17:09.978] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3046ms or 60 ticks behind
-[07Jan2025 17:20:38.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lsg1615 has made the advancement [Stone Age]
-[07Jan2025 17:20:46.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lsg1615 has made the advancement [Getting an Upgrade]
-[07Jan2025 17:21:54.681] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcharles22[/127.155.238.52:44091] logged in with entity id 1845 at (-1.5, 72.0, 4.5)
-[07Jan2025 17:21:54.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcharles22 joined the game
-[07Jan2025 17:23:19.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Lsg1615 a server operator
-[07Jan2025 17:23:27.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lsg1615: The difficulty has been set to Normal]
-[07Jan2025 17:23:53.623] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rubeenuni[/127.28.13.35:44353] logged in with entity id 2213 at (10.5, 73.0, 5.5)
-[07Jan2025 17:23:53.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubeenuni joined the game
-[07Jan2025 17:23:56.179] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=74, z=7}
-[07Jan2025 17:23:57.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=74, z=7}
-[07Jan2025 17:24:00.075] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=73, z=5}
-[07Jan2025 17:24:00.177] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=72, z=5}
-[07Jan2025 17:24:00.227] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=71, z=6}
-[07Jan2025 17:24:08.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lsg1615 has made the advancement [Monster Hunter]
-[07Jan2025 17:25:21.598] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-38, y=72, z=-1} BlockPos{x=10, y=66, z=-15}
-[07Jan2025 17:25:21.647] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-38, y=72, z=-1} BlockPos{x=10, y=66, z=-15}
-[07Jan2025 17:25:21.942] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-38, y=72, z=-1} BlockPos{x=10, y=68, z=-15}
-[07Jan2025 17:25:21.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-38, y=72, z=-1} BlockPos{x=10, y=68, z=-15}
-[07Jan2025 17:25:22.641] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-38, y=72, z=-1} BlockPos{x=10, y=66, z=-15}
-[07Jan2025 17:25:44.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubeenuni has made the advancement [Stone Age]
-[07Jan2025 17:26:33.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubeenuni has made the advancement [Getting an Upgrade]
-[07Jan2025 17:26:36.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcharles22 has made the advancement [Stone Age]
-[07Jan2025 17:26:39.109] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=63, z=-17} BlockPos{x=10, y=63, z=-16}
-[07Jan2025 17:27:49.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lsg1615 has made the advancement [Acquire Hardware]
-[07Jan2025 17:28:14.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcharles22 has made the advancement [Getting an Upgrade]
-[07Jan2025 17:28:29.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lsg1615 has made the advancement [Isn't It Iron Pick]
-[07Jan2025 17:29:26.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lsg1615> -220 6 40
-[07Jan2025 17:29:39.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubeenuni has made the advancement [Monster Hunter]
-[07Jan2025 17:30:02.168] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PATATAMANIAXD[/127.21.238.11:56337] logged in with entity id 4111 at (4.5, 69.0, -0.5)
-[07Jan2025 17:30:02.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATATAMANIAXD joined the game
-[07Jan2025 17:31:52.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lsg1615 has made the advancement [Diamonds!]
-[07Jan2025 17:32:54.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubeenuni has made the advancement [Acquire Hardware]
-[07Jan2025 17:33:05.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubeenuni has made the advancement [Isn't It Iron Pick]
-[07Jan2025 17:33:19.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
-[07Jan2025 17:33:35.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lsg1615> -270 -33 50
-[07Jan2025 17:34:31.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PATATAMANIAXD> t
-[07Jan2025 17:35:10.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubeenuni has made the advancement [Suit Up]
-[07Jan2025 17:37:02.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcharles22 has made the advancement [Monster Hunter]
-[07Jan2025 17:37:46.443] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PATATAMANIAXD lost connection: Disconnected
-[07Jan2025 17:37:46.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATATAMANIAXD left the game
-[07Jan2025 17:38:40.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcharles22 has made the advancement [Acquire Hardware]
-[07Jan2025 17:38:44.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubeenuni has made the advancement [Diamonds!]
-[07Jan2025 17:38:49.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcharles22 has made the advancement [Isn't It Iron Pick]
-[07Jan2025 17:39:05.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcharles22 was slain by Zombie
-[07Jan2025 17:39:22.943] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=66, z=-13}
-[07Jan2025 17:39:23.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=66, z=-14}
-[07Jan2025 17:39:52.701] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=66, z=-14}
-[07Jan2025 17:39:59.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lsg1615> -21 -179
-[07Jan2025 17:40:03.715] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=12, y=66, z=-15}
-[07Jan2025 17:40:03.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=13, y=66, z=-15}
-[07Jan2025 17:40:03.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=13, y=66, z=-15}
-[07Jan2025 17:40:03.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=13, y=66, z=-15}
-[07Jan2025 17:40:03.914] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=13, y=66, z=-15}
-[07Jan2025 17:40:03.973] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=13, y=66, z=-15}
-[07Jan2025 17:40:04.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=66, z=-15}
-[07Jan2025 17:40:04.215] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=66, z=-15}
-[07Jan2025 17:40:04.268] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=66, z=-15}
-[07Jan2025 17:40:04.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=11, y=66, z=-15}
-[07Jan2025 17:40:04.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=11, y=66, z=-15}
-[07Jan2025 17:40:04.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=11, y=66, z=-15}
-[07Jan2025 17:40:04.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=11, y=66, z=-15}
-[07Jan2025 17:40:04.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=66, z=-15}
-[07Jan2025 17:40:08.114] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=68, z=-16}
-[07Jan2025 17:40:08.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=67, z=-16}
-[07Jan2025 17:40:13.293] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcharles22 lost connection: Disconnected
-[07Jan2025 17:40:13.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcharles22 left the game
-[07Jan2025 17:49:03.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lsg1615 has made the advancement [Not Today, Thank You]
-[07Jan2025 17:51:58.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -8.021331712328731,0.0,-6.775412716002052
-[07Jan2025 17:51:58.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -9.231171738110874,0.0,-7.6978430636722806
-[07Jan2025 17:51:58.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -10.455719251022543,0.0,-8.611123103727152
-[07Jan2025 17:51:58.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -11.694489851026105,0.0,-9.516198627929384
-[07Jan2025 17:51:58.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -12.946999054639008,0.0,-10.413974162345312
-[07Jan2025 17:51:58.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -14.21276122371907,0.0,-11.305321155694287
-[07Jan2025 17:51:58.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -15.491291462378626,0.0,-12.191074912810791
-[07Jan2025 17:51:58.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -16.782326115272866,0.0,-13.071372801009204
-[07Jan2025 17:51:58.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -18.085815486871894,0.0,-13.94568347418948
-[07Jan2025 17:51:58.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -19.40169686303807,0.0,-14.813493952744409
-[07Jan2025 17:51:58.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -20.7298943595913,0.0,-15.674313347239774
-[07Jan2025 17:51:58.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -22.07032078013387,0.0,-16.527669053605564
-[07Jan2025 17:51:58.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -23.422878334032845,0.0,-17.373106680795615
-[07Jan2025 17:51:58.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -24.787458516753816,0.0,-18.21019370239037
-[07Jan2025 17:51:58.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -26.163943736023725,0.0,-19.03851555385353
-[07Jan2025 17:51:58.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -27.552072787088207,0.0,-19.858360243353275
-[07Jan2025 17:51:58.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -28.951441147057665,0.0,-20.670688059918405
-[07Jan2025 17:51:58.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -30.361465806053275,0.0,-21.477097399387503
-[07Jan2025 17:51:58.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -31.78152955978439,0.0,-22.279114666125167
-[07Jan2025 17:51:58.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -33.21098631652137,0.0,-23.078191011533875
-[07Jan2025 17:51:58.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -34.64916538895827,0.0,-23.87570311174875
-[07Jan2025 17:51:58.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -36.09537410581399,0.0,-24.67295766997006
-[07Jan2025 17:51:58.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -37.54890143663471,0.0,-25.471192347465433
-[07Jan2025 17:51:58.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -39.00902319812897,0.0,-26.271573428429917
-[07Jan2025 17:51:58.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -40.4750019856734,0.0,-27.075204008928097
-[07Jan2025 17:51:58.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -41.94609191011526,0.0,-27.883121751960687
-[07Jan2025 17:51:58.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -43.42153983798826,0.0,-28.69630373356432
-[07Jan2025 17:51:58.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -44.900589882445416,0.0,-29.515664428171647
-[07Jan2025 17:51:58.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -39.55580251910064,0.0,-24.49921250315583
-[07Jan2025 17:51:59.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! -41.04020533384386,0.0,-25.332884004714174
-[07Jan2025 17:55:45.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rubeenuni moved too quickly! 2.9060961663689113,-0.41999998688697815,9.579779053323463
-[07Jan2025 17:55:45.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2978ms or 59 ticks behind
-[07Jan2025 17:56:03.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lsg1615 has made the advancement [Local Brewery]
-[07Jan2025 18:00:45.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lsg1615 has reached the goal [Zombie Doctor]
-[07Jan2025 18:00:56.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 0.4735213111594021,0.0,10.078251123966083
-[07Jan2025 18:00:56.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 0.6309049369481272,0.0,10.475848251122443
-[07Jan2025 18:00:56.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 0.7851408932228878,0.0,10.865493443319338
-[07Jan2025 18:00:56.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 0.9313004040359374,0.0,11.247633201886742
-[07Jan2025 18:00:56.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 1.069569452344922,0.0,11.62270128990042
-[07Jan2025 18:00:56.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 1.2001454206829294,0.0,11.991115252397435
-[07Jan2025 18:00:56.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 1.3232358122143069,0.0,12.353276084224376
-[07Jan2025 18:00:56.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 1.439057072251444,0.0,12.70956833949026
-[07Jan2025 18:00:56.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 1.5478332493094058,0.0,13.06035949454565
-[07Jan2025 18:00:56.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 1.6497951221986114,0.0,13.40600076241617
-[07Jan2025 18:00:56.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 1.7451789319991349,0.0,13.746826601415478
-[07Jan2025 18:00:56.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 1.8342252879417629,0.0,14.083154777594359
-[07Jan2025 18:00:56.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 1.9171785985515726,0.0,14.415287330022352
-[07Jan2025 18:00:56.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 1.9984728445313067,0.0,14.74077723773678
-[07Jan2025 18:00:56.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 2.0781412022965924,0.0,15.059757334104347
-[07Jan2025 18:00:56.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 2.156216194426179,0.0,15.372357834628701
-[07Jan2025 18:00:56.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 2.2327296882021983,0.0,15.678706331104877
-[07Jan2025 18:00:56.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 2.307712909001566,0.0,15.97892784523492
-[07Jan2025 18:00:56.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 2.3847364043635935,0.0,16.269613810365854
-[07Jan2025 18:00:56.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 2.463732863860969,0.0,16.55092856387023
-[07Jan2025 18:00:56.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 2.544698799651769,0.0,16.82309541878294
-[07Jan2025 18:00:56.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 2.6276897100481165,0.0,17.086395619330688
-[07Jan2025 18:00:56.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of rubeenuni) moved too quickly! 2.739359201069192,0.0,17.3183610347304
-[07Jan2025 18:00:56.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5380ms or 107 ticks behind
-[07Jan2025 18:01:26.343] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21362, l='ServerLevel[world]', x=1463.37, y=67.56, z=925.72] died, message: 'Villager suffocated in a wall'
-[07Jan2025 18:04:34.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubeenuni has made the advancement [Sweet Dreams]
-[07Jan2025 18:05:35.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubeenuni> 1487 69 963
-[07Jan2025 18:09:21.190] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lsg1615 lost connection: Disconnected
-[07Jan2025 18:09:21.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lsg1615 left the game
-[07Jan2025 18:29:36.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubeenuni has made the advancement [Hot Stuff]
-[07Jan2025 18:37:09.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubeenuni has made the advancement [Ice Bucket Challenge]
-[07Jan2025 18:54:39.785] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/34489, l='ServerLevel[world]', x=1517.42, y=71.00, z=963.26] died, message: 'Villager was slain by Zombie'
-[07Jan2025 19:03:23.086] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rubeenuni lost connection: Disconnected
-[07Jan2025 19:03:23.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubeenuni left the game
+[08Jan2025 16:11:52.176] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[08Jan2025 16:11:52.189] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04
+[08Jan2025 16:11:52.200] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.5 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[08Jan2025 16:11:52.447] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[08Jan2025 16:11:52.729] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/Nuevo-server-enero/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[08Jan2025 16:11:53.207] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[08Jan2025 16:11:55.383] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[08Jan2025 16:11:56.903] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/Nuevo-server-enero/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/Nuevo-server-enero/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/Nuevo-server-enero/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/Nuevo-server-enero/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[08Jan2025 16:11:57.753] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/Nuevo-server-enero/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/Nuevo-server-enero/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/Nuevo-server-enero/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/Nuevo-server-enero/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[08Jan2025 16:12:11.871] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 51.0.33, for MC 1.21 with MCP 20240613.102039
+[08Jan2025 16:12:11.874] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v51.0.33 Initialized
+[08Jan2025 16:12:11.922] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[08Jan2025 16:12:14.048] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[08Jan2025 16:12:15.393] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 51.0.33 Target: 51.0.33
+[08Jan2025 16:12:16.726] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[08Jan2025 16:12:22.483] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1290 recipes
+[08Jan2025 16:12:22.973] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1399 advancements
+[08Jan2025 16:12:23.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21
+[08Jan2025 16:12:23.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[08Jan2025 16:12:23.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[08Jan2025 16:12:23.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[08Jan2025 16:12:24.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[08Jan2025 16:12:24.189] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[08Jan2025 16:12:24.317] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08Jan2025 16:12:24.318] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[08Jan2025 16:12:24.318] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08Jan2025 16:12:24.319] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[08Jan2025 16:12:24.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[08Jan2025 16:12:36.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[08Jan2025 16:12:38.210] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 16:12:38.211] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 16:12:38.211] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 16:12:38.211] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 16:12:38.851] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 16:12:39.133] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 26%
+[08Jan2025 16:12:39.462] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2862 ms
+[08Jan2025 16:12:39.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.117s)! For help, type "help"
+[08Jan2025 16:12:39.545] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[08Jan2025 16:15:50.131] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcharles22[/127.155.238.52:48479] logged in with entity id 19 at (10.217058362578335, 63.0, -17.56491754016798)
+[08Jan2025 16:15:50.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcharles22 joined the game
+[08Jan2025 16:15:56.268] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=11, y=64, z=-16}
+[08Jan2025 16:16:11.207] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5, y=67, z=-17} BlockPos{x=9, y=69, z=-15}
+[08Jan2025 16:16:11.426] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5, y=67, z=-17} BlockPos{x=10, y=68, z=-15}
+[08Jan2025 16:16:20.422] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5, y=67, z=-17} BlockPos{x=9, y=64, z=-15}
+[08Jan2025 16:16:20.923] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5, y=67, z=-17} BlockPos{x=9, y=64, z=-15}
+[08Jan2025 16:19:40.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcharles22 was slain by Zombie
+[08Jan2025 16:19:58.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcharles22 lost connection: Disconnected
+[08Jan2025 16:19:58.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcharles22 left the game
