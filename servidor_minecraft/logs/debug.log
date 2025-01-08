@@ -733,3 +733,25 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Jan2025 17:30:26.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aluyr has made the advancement [Isn't It Iron Pick]
 [08Jan2025 17:32:41.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jan2025 17:32:41.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 17:37:42.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 17:37:42.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 17:38:14.859] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-890, y=69, z=465} BlockPos{x=-891, y=67, z=464}
+[08Jan2025 17:38:42.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lsg1615 has made the advancement [Sweet Dreams]
+[08Jan2025 17:38:48.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aluyr has made the advancement [Not Today, Thank You]
+[08Jan2025 17:42:42.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 17:42:42.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 17:47:41.985] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 17:47:42.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 17:52:28.756] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-861, y=-1, z=457} BlockPos{x=-891, y=-2, z=413}
+[08Jan2025 17:52:30.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-861, y=-1, z=457} BlockPos{x=-891, y=-1, z=413}
+[08Jan2025 17:52:41.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 17:52:42.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 17:53:07.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aluyr has made the advancement [Diamonds!]
+[08Jan2025 17:54:42.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aluyr tried to swim in lava to escape Zombie
+[08Jan2025 17:54:55.656] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aluyr lost connection: Disconnected
+[08Jan2025 17:54:55.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aluyr left the game
+[08Jan2025 17:57:41.983] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 17:57:41.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 18:00:50.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lsg1615 was slain by Zombie
+[08Jan2025 18:02:41.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 18:02:41.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
