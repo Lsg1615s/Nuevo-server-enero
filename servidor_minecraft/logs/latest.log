@@ -66,3 +66,9 @@
 [08Jan2025 21:16:24.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress drowned
 [08Jan2025 21:17:32.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SINNOMnexpress lost connection: Timed out
 [08Jan2025 21:17:32.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress left the game
+[08Jan2025 21:31:36.726] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SINNOMnexpress[/127.117.29.19:48231] logged in with entity id 19299 at (410.8963592813306, 54.0, 1111.5567971979638)
+[08Jan2025 21:31:36.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress joined the game
+[08Jan2025 21:37:29.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SINNOMnexpress moved too quickly! -3.8908993510598293,0.0,9.39057443188176
+[08Jan2025 21:37:29.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3163ms or 63 ticks behind
+[08Jan2025 21:39:41.515] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SINNOMnexpress lost connection: Disconnected
+[08Jan2025 21:39:41.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SINNOMnexpress left the game
